@@ -29,7 +29,7 @@ class UpiPayPlugin: FlutterPlugin, MethodCallHandler, ActivityAware, PluginRegis
   private var activity: Activity? = null
 
   private var result: Result? = null
-  private var requestCodeNumber = 201119
+  private var requestCodeNumber = 32700
 
   private var hasResponded = false
 
